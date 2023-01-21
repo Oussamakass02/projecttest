@@ -1,0 +1,132 @@
+body { 
+    margin: 0;
+    }
+ .header{
+    overflow: hidden;
+    background-color: rgb(65,65,65);
+	padding: 10px 10px 10px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+  }
+    
+  .header a {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 10px;
+    border-radius: 5px;
+  }
+  
+  .header a:hover {
+    background-color: rgb(255, 187, 0);
+    color: black;
+  }
+  
+  .header a.active {
+    background-color: rgb(255, 187, 0);
+    color: rgb(0, 0, 0);
+  }
+  .para1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+  color: rgb(255, 255, 255);
+  }
+
+    .img3
+    {
+      width:30%;
+      height: auto;
+    }
+    .prod{
+        display:flex;
+        font-size: 40px;
+        padding-top: 15px;
+    }
+    .txt3{
+      font-size: 20px;
+      padding-left: 15px;
+      padding-top: 30px;
+    }
+    
+
+
+
+    .copyright{
+      text-align: center;
+      padding-top: 20px;
+      color: rgb(255, 255, 255);
+      font-size: 13px;
+    }
+    .fa {
+      padding: 10px;
+      font-size: 30px;
+      width: auto;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      border-radius: 50%;
+    }
+    
+    .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background:rgb(255, 187, 0);
+      color: white;
+    }
+    
+    .fa-twitter {
+      background:rgb(255, 187, 0);
+      color: white;
+    }
+    
+    .fa-linkedin {
+      background: rgb(255, 187, 0);
+      color: white;
+    }
+    
+    .fa-youtube {
+      background: rgb(255, 187, 0);
+      color: white;
+    }
+    .smedia{
+      padding-left: 10px;
+      text-align :center;
+    }
+    .row1{
+      display:flex; 
+      list-style-type:none;
+      text-align: center;
+      padding-top: 30px;
+    }
+    .lt1{
+      padding-left: 80px;
+    }
+    
+    .foot{
+      background-color: rgb(65,65,65);
+      padding: 0px 0px 20px 0px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .partners{
+      padding: 0px 0px 20px 0px;
+    }
+     .lin:link, .lin:visited {
+      color: rgb(255, 255, 255);
+       
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    .lin:hover, a:active {
+    
+      color: rgb(255, 187, 0);
+    }
+    .lin1{
+      padding-left: 280px;{
+      }
